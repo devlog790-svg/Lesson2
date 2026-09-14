@@ -9,10 +9,10 @@ namespace lesson2
         {
             Dictionary<string, int> EnemyHp = new Dictionary<string, int>();
             EnemyHp.Add("Zombie!", 100);
-            EnemyHp.Add("Boss!", 200);
+            EnemyHp.Add("Boss", 200);
             EnemyHp.Add("Player!", 50);
-            EnemyHp["Boss!"] = 350;
-            Console.WriteLine(EnemyHp["Boss!"]);
+            EnemyHp["Boss"] = 350;
+            Console.WriteLine(EnemyHp["Boss"]);
             
         }
 
