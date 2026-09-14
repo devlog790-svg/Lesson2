@@ -15,7 +15,7 @@ namespace lesson2
             Console.WriteLine(EnemyHp["Boss!"]);
             Console.WriteLine("Hello world!");
             Console.WriteLine("Is working?");
-            Console.WriteLine("Merged");
+            Console.WriteLine("Merged!" + "hello");
             
         }
 
