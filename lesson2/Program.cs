@@ -14,6 +14,7 @@ namespace lesson2
             EnemyHp["Boss!"] = 350;
             Console.WriteLine(EnemyHp["Boss!"]);
             Console.WriteLine("Hello world!");
+            Console.WriteLine("Is working?");
             
         }
 
